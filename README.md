@@ -1,5 +1,24 @@
 # Getting Started with Create React App
 
+To run the app:
+
+- npm init
+- Remove the extra part in package.json added by the above command
+  (
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/sreegithub19/codepen.git"
+  },
+  "bugs": {
+  "url": "https://github.com/sreegithub19/codepen/issues"
+  },
+  "homepage": "https://github.com/sreegithub19/codepen#readme"
+
+)
+
+- npm install
+- npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
