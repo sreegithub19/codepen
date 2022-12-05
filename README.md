@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Versions used:
+
+- Angular CLI: 14.1.2
+- Node: 16.10.0
+- Package Manager: npm 7.24.0
+
 To run the app:
 
 - npm init
